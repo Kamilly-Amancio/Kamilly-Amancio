@@ -28,7 +28,7 @@ Me chamdo Kamilly Amâncio
 ![CANVA](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### Visão geral
-![VISÃO GERAL](https://github-readme-stats.vercel.app/api/top-langs/?username={kamilly-amancio}&theme=blue-green)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
