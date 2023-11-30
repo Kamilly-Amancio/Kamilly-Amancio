@@ -2,7 +2,7 @@
 
 Me chamdo Kamilly Amâncio 
 
-- Cursando bacharelado em Ciências da Computação - 4° Período (Faculdade Estácio)
+- Cursando bacharelado em Ciências da Computação - 5° Período (Faculdade Estácio)
 - Atuando como Analista de Sistemas Júnior (Grupo Queiroz)
 
 ### Conhecimento em:
